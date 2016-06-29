@@ -1,0 +1,22 @@
+/*=============================
+            GENERAL
+  =============================*/
+
+body{
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  overflow:hidden;
+  width:100%;
+  height:100%;
+  background:#000;
+  font-family:arial;
+  color:#fff;
+  font-size:14px;
+}
+
+canvas{
+  position:absolute;
+  z-index:0;
+  background:#fff;
+}
